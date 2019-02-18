@@ -1,4 +1,4 @@
-package com.samsclub.ims.invcache.repo;
+package com.repo;
 
 import java.util.concurrent.CompletableFuture;
 
